@@ -1,7 +1,9 @@
 div nav { 
 backgroung-color: skyblue;
-background-style: solid;
+boarder-style: solid;
 text-decoration: none;
 text-decoration-color: maroon;
 }
-a: hover { 
+div:hover { class="nav-tag";
+  
+}
