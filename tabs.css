@@ -1,9 +1,11 @@
-div nav { 
+div. nav { 
 backgroung-color: skyblue;
 boarder-style: solid;
 text-decoration: none;
 text-decoration-color: maroon;
 }
-div:hover { class="nav-tag";
-  
+div. nav-tag: hover { color: green;  
+}
+div. nav-tag {
+  background-color: blue;
 }
