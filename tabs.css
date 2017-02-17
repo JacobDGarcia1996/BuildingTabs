@@ -2,9 +2,9 @@ div.nav-tag {
 background-color: skyblue;
 border-style: solid;
 }
-a.nav {
-  text-decoration:none;
-text-decoration-color: maroon;
+a.navigator {
+  text-decoration-line: none;
+text-decoration: maroon;
 }
-div.nav-tag: hover { color: green;
+div.nav-tag:hover { color: green;
 }
